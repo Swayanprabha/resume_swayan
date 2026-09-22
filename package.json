@@ -1,10 +1,10 @@
 {
-  "name": "desuryan.github.io",
+  "name": "resume_swayan",
   "private": true,
-  "homepage": "https://desuryan.github.io",
+  "homepage": "https://swayanprabha.github.io/resume_swayan/",
   "repository": {
     "type": "git",
-    "url": "https://github.com/desuryan/desuryan.github.io.git"
+    "url": "https://github.com/Swayanprabha/resume_swayan.git"
   },
   "version": "0.0.0",
   "type": "module",
