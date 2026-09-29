@@ -63,14 +63,14 @@ export const resume: Resume = {
     { label: 'github.com/Swayanprabha', href: 'https://github.com/Swayanprabha' },
   ],
   summary:
-    'Software Developer with ~2 years of experience in backend development, with hands-on experience in Java, Spring Boot, SQL, REST APIs, and web applications. Strong foundation in Core Java, Object-Oriented Programming, Data Structures and Algorithms, and database management. Experienced in developing backend modules, business logic, APIs, and internal software solutions while working with Git and Agile practices. Adaptable and quick to learn new technologies, with a strong interest in problem-solving, backend engineering, and continuously improving technical skills.',
+    'Software Development Engineer with ~2 years of experience in software development, with hands-on experience in Java, Spring Boot, SQL, REST APIs, and web applications. Strong foundation in Core Java, Object-Oriented Programming, Data Structures and Algorithms, and database management. Experienced in developing backend modules, business logic, APIs, and internal software solutions while working with Git and Agile practices. Adaptable and quick to learn new technologies, with a strong interest in problem-solving, backend engineering, and continuously improving technical skills.',
   experience: [
     {
       title: 'FrontEnd Developer(Intern)',
       company: 'Squbix Digital Solutions Pvt Ltd',
       location: 'Bhubaneswar, India',
       start: 'Aug 2023',
-      end: 'Sept 2023',
+      end: 'Octo 2023',
       highlights: [
         'Developed and maintained web applications using React.js, HTML, CSS, and JavaScript.',
         'Collaborated with cross-functional teams to gather requirements and implement new features.',
@@ -82,7 +82,7 @@ export const resume: Resume = {
       company: 'Knowledgist Pvt Ltd',
       location: 'Bhubaneswar, India',
       start: 'July 2024',
-      end: 'Nov 2024',
+      end: 'Nov 2025',
       highlights: [
         'Developed and tested 100+ RESTful APIs using Java and Spring Boot for in-house software applications.',
         'Developed and implemented business logic and backend functionalities based on application requirements.',
@@ -124,6 +124,7 @@ export const resume: Resume = {
         'REST APIs',
         'Django',
         'Clean Architecture',
+        'React'
       ],
     },
     {
@@ -132,6 +133,7 @@ export const resume: Resume = {
         'Object-Oriented Programming',
         'SOLID Principles',
         'Microservices',
+        'Clean Coding',
         'Event-Driven Architecture',
         'Low-Latency Architecture',
         'Scalable Backend Systems',
@@ -139,7 +141,7 @@ export const resume: Resume = {
     },
     {
       name: 'Cloud & DevOps',
-      items: ['AWS','Docker', 'Jenkins', 'Git', 'Maven','CI/CD'],
+      items: ['AWS','Docker', 'Git', 'Maven','CI/CD'],
     },
     {
       name: 'Databases',
@@ -148,19 +150,23 @@ export const resume: Resume = {
     {
       name: 'Messaging',
       items: ['Kafka','Redis Pub/Sub'],
+    },
+    {
+      name: 'Soft-Skills',
+      items: ['Communication', 'Problem-Solving', 'Collaboration', 'Teamwork', 'Adaptability'],
     }
   ],
   projects: [
     {
       name: 'Bhoomi',
       description:
-       'A PHP based e-commerec platfrom for woman hygiene products, with features like product catalog, shopping cart, user authentication with an intrigration of blogging facilities for health awareness and user engagement.',
+       'A PHP based e-commerce platfrom for woman hygiene products, with features like product catalog, shopping cart, user authentication with an intrigration of blogging facilities for health awareness and user engagement.',
       tech: ['HTML', 'PHP', 'JavaScript', 'MySQL', 'CSS', 'Ajax'],
     },
     {
-      name: 'FMS-File Management System',
+      name: 'FMS-File Management Service',
       description:
-        'A web based file management system for secure storage, retrieval, and sharing of files with user authentication, access control, and versioning features.',
+        'A web based file management system for secure storage, retrieval, and sharing of files with user authentication, access control, and filter/Search features.',
       tech: ['Java', 'Spring Boot', 'Hibernate', 'MySQL', 'REST APIs', 'React.js'],
     },
     {
